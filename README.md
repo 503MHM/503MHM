@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+503MHM;C%2B%2B+Developer;Qt+6+Enthusiast;Building+practical+tools" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hello, I'm 503MHM 👋</h1>
+<h1 align="center">你好，我是 503MHM 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-Qt6-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++ Qt6" />
@@ -20,22 +20,20 @@
   </a>
 </p>
 
-## About Me
+## 👨‍💻 关于我 | About Me
 
-I’m a developer focused on building practical desktop tools with C++ and Qt 6. I enjoy turning ideas into usable software that solves real problems — especially in remote access, data analysis, and productivity tools.
+我专注于使用 **C++ 和 Qt 6** 开发实用的桌面应用与工具软件，喜欢把想法变成能解决实际问题的软件。目前的项目方向包括局域网远程连接和骑行数据分析。
 
-## Featured Projects
+I’m a developer focused on building practical desktop tools with **C++ and Qt 6**. I enjoy turning ideas into software that solves real problems, especially in remote access and cycling data analysis.
 
-<div align="center">
+## 🚀 精选项目 | Featured Projects
 
-| Project | Description | Tech |
+| 项目 Project | 介绍 Description | 技术 Tech |
 | --- | --- | --- |
-| [RemoteLink](https://github.com/503MHM/RemoteLink) | A local network remote connection tool built with Qt 6 for efficient remote access and management. | C++ / Qt 6 |
-| [CyclingDataAnalyzer](https://github.com/503MHM/CyclingDataAnalyzer) | A cycling data analysis tool designed for data visualization, statistics, and record management. | C++ / Qt 6 |
+| [RemoteLink](https://github.com/503MHM/RemoteLink) | 基于 Qt 6 的局域网远程连接软件。<br>A local network remote connection tool built with Qt 6. | C++ / Qt 6 |
+| [CyclingDataAnalyzer](https://github.com/503MHM/CyclingDataAnalyzer) | 基于 Qt 6 的骑行数据分析工具。<br>A cycling data analysis tool built with Qt 6. | C++ / Qt 6 |
 
-</div>
-
-## Tech Stack
+## 🧰 技术栈 | Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -44,25 +42,25 @@ I’m a developer focused on building practical desktop tools with C++ and Qt 6.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## Current Interests
+## 🌱 兴趣方向 | Current Interests
 
-- Desktop application development
-- Tool software design and UX
-- Data analysis and visualization
-- Practical engineering solutions with C++/Qt
+- 桌面应用开发 | Desktop application development
+- 工具软件设计 | Tool software design
+- 数据分析与可视化 | Data analysis and visualization
+- C++ / Qt 工程实践 | Practical C++ / Qt engineering
 
-## GitHub Analytics
+## 📊 GitHub 数据 | GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=503MHM&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=503MHM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## Connect
+## 📫 联系我 | Connect
 
 - GitHub: [503MHM](https://github.com/503MHM)
-- RemoteLink: [503MHM/RemoteLink](https://github.com/503MHM/RemoteLink)
-- CyclingDataAnalyzer: [503MHM/CyclingDataAnalyzer](https://github.com/503MHM/CyclingDataAnalyzer)
+- [RemoteLink](https://github.com/503MHM/RemoteLink)
+- [CyclingDataAnalyzer](https://github.com/503MHM/CyclingDataAnalyzer)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=503MHM&label=Profile+Views&color=blueviolet" alt="Profile views" />
